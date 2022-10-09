@@ -1,1 +1,2 @@
 # js-othello
+# js-othello
